@@ -1,0 +1,34 @@
+https://github.com/meta-llama/llama-cookbook/blob/archive-main/recipes/quickstart/Prompt_Engineering_with_Llama_3.ipynb
+
+
+llama-3.1-8b - base pretrained 8 billion parameter model
+
+Hosted APIs are the easiest way to get started.
+
+Each model has a maximum context length that your prompt cannot exceed. That's 128k tokens for Llama 3.1, 4K for Llama 2, and 100K for Code Llama.
+
+ml.inf2.8xlarge,
+
+Experiment
+Meta Llama 2 7B Chat
+
+Ollama for running locally
+https://ollama.com/download
+
+Ollama is a tool that allows you to run open-source large language models (LLMs) locally on your machine.
+
+help
+https://klu.ai/glossary/ollama
+
+Running models using Ollama is a simple process. Users can download and run models using the run command in the terminal. If the model is not installed, Ollama will automatically download it first. For example, to run the Code Llama model, you would use the command ollama run codellama.
+
+Users can download and run models using the run command in the terminal
+For example, to run the Code Llama model, you would use the command ollama run llama2
+
+Ollama models are stored in the ~/.ollama/models directory on your local machine. This directory contains all the models that you have downloaded or created. The models are stored in a subdirectory named blobs.
+
+Free, prioritizes privacy, platform streamlines the deployment of language models on local machines, offering users control and ease of use. Ollama's library (ollama.ai/library) provides access to open-source models such as Mistral, Llama 2, and Code Llama, among others.
+
+RAG
+
+installing Visual Studio Build Tools which is 129MB. May want to delete later.
