@@ -17,10 +17,10 @@
   - What are you looking to get out of this course?
 
 - Course Outline:
-1. Primer on LLMs
-2. Generative AI Strengths, Risks, and Opportunities
-3. Prompt Engineering 
-4. Strategic Implementation of Generative AI at Quad-C
+  1. Primer on LLMs
+  2. Generative AI Strengths, Risks, and Opportunities
+  3. Prompt Engineering 
+  4. Strategic Implementation of Generative AI at Quad-C
 
 - Review and discuss deck: 01. llm_intro
 - Break (10 mins)
