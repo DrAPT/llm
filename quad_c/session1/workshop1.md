@@ -50,7 +50,7 @@ Here, we are checking for drastic differences. Early LLMs would produce drastic 
 
 ---
 
-4 | **Memory** What does the model remember from our session / between sessions?
+4 | **Memory**: What does the model remember from our session / between sessions?
 
 *What was the first thing I asked?*
 
@@ -73,7 +73,7 @@ Change to model `Memo Writer - Pros Writer` and rerun the prompt below. Note any
 
 ---
 
-6 | **Privacy and Security** How private are the sessions? Does OpenAI use them to train their models?
+6 | **Privacy and Security**: How private are the sessions? Does OpenAI use them to train their models?
 
 *Will this session be used to train models?*  
 
