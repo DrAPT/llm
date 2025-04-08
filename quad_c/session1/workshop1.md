@@ -11,6 +11,8 @@ Last updated: April 8, 2025
 | Prompts | Appear *in italics*. You can copy/paste them into the LLM GUI |
 | Instructions | Run each prompt, save the response, and note the result |
 
+We will do the first exercise together
+
 ---
 
 1 | **Search**: In slides `01. llm_intro` there are easter eggs with question / answer in the slides. 
