@@ -10,12 +10,6 @@
 
 ---
 
-### Upcoming Deliverables
-
-Quiz and Lab will be due Jan 24
-
----
-
 ### Content
 
 - Brief Intro:
