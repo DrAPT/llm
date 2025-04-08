@@ -3,8 +3,8 @@
 
 ### Admin Items
 
-- Course materials can be found here: 
-  https://github.com/DrAPT/llm/quad_c
+- Course materials can be found here:  
+  [https://github.com/DrAPT/llm/quad_c](https://github.com/DrAPT/llm/tree/main/quad_c)
 
 - All data is fictitious
 
