@@ -9,11 +9,9 @@ Last updated: April 13, 2025
 | **LEARNING OUTCOMES** | Discover GenAI principles, techniques, Quad-C fun facts |
 | Model Type | We will use `Azure AI: gpt-4o` unless otherwise indicated |
 | Prompts | Appear *in italics*. You can copy/paste them into the LLM GUI |
-| Instructions | Run each prompt, save the response, and note the result |
+| Instructions | Run each prompt, save the response, and note the result. <br> We will discuss findings as a team |
 
 We will do the first exercise together
-
-We will discuss findings as a team
 
 ---
 
@@ -24,6 +22,9 @@ Upload the file to ChatGPT and prompt the model to find the easter eggs, returni
 ---
 
 2 | **Adjust Temperature**: At top right is slider to change settings. What is the current temperature?
+
+Change the settings here:  
+![image](https://github.com/DrAPT/llm/tree/main/quad_c/session1/chatgpt_settings.png)
 
 You will run each of these prompts at a lower temperature of 0.2 and a higher temperature of 2.0.  
 Save each response and note how it changed with temperature.
@@ -70,8 +71,13 @@ What are your conclusions?
  
 *What is today’s date? How do you know this?*
 
-Change to model `Memo Writer - Pros Writer` and rerun the prompt below. Note any difference.  
+Change to a different model and rerun the prompt below. Note any difference.  
 *What is today’s date? How do you know this?*
+
+Toggle the model here:  
+![image](https://github.com/DrAPT/llm/tree/main/quad_c/session1/chatgpt_model_dropdown.png)
+
+
 
 ---
 
