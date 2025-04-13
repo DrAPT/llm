@@ -1,7 +1,7 @@
 ## Generative AI for Executives: Agenda 01
 
 
-### Admin Items
+### Logistics
 
 - Course materials can be found here:  
   [https://github.com/DrAPT/llm/tree/main/quad_c](https://github.com/DrAPT/llm/tree/main/quad_c)
