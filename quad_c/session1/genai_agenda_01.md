@@ -6,7 +6,7 @@
 - Course materials can be found here:  
   [https://github.com/DrAPT/llm/tree/main/quad_c](https://github.com/DrAPT/llm/tree/main/quad_c)
 
-- All data is fictitious
+- All data on GitHub is fictitious
 
 - Sessions are interactive. Jump in with questions.
 
