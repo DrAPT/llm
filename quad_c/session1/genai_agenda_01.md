@@ -14,7 +14,7 @@
 
 ### Content
 
-**1 | Review Course Outline:**  
+**1 | Mention Course Sessions:**  
 
   a. Primer on LLMs  
   b. Generative AI Strengths, Risks, and Use Cases  
