@@ -21,10 +21,12 @@ Upload the file to ChatGPT and prompt the model to find the easter eggs, returni
 
 ---
 
-2 | **Adjust Temperature**: At top right is slider to change settings. What is the current temperature?
+2 | **Adjust Temperature**: How do results change at different temperatures?
 
-Change the settings here:  
-![image](https://github.com/DrAPT/llm/tree/main/quad_c/session1/chatgpt_settings.png)
+Change the settings by clicking slider button at top right of page :  
+![image](https://github.com/DrAPT/llm/blob/main/quad_c/session1/chatgpt_settings.png)
+
+What is the current temperature?
 
 You will run each of these prompts at a lower temperature of 0.2 and a higher temperature of 2.0.  
 Save each response and note how it changed with temperature.
@@ -71,12 +73,11 @@ What are your conclusions?
  
 *What is today’s date? How do you know this?*
 
-Change to a different model and rerun the prompt below. Note any difference.  
+Change to a different model by clicking this dropdown at the top of the page:  
+![image](https://github.com/DrAPT/llm/blob/main/quad_c/session1/chatgpt_model_dropdown.png)
+
+Rerun the prompt below and note any difference.  
 *What is today’s date? How do you know this?*
-
-Toggle the model here:  
-![image](https://github.com/DrAPT/llm/tree/main/quad_c/session1/chatgpt_model_dropdown.png)
-
 
 
 ---
