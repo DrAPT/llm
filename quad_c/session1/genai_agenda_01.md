@@ -14,7 +14,7 @@
 
 - Review Logistics, Course Outline:
   1. Primer on LLMs
-  2. Generative AI Strengths, Risks, and Opportunities
+  2. Generative AI Strengths, Risks, and Use Cases
   3. Prompt Engineering 
   4. Strategic Implementation of Generative AI at Quad-C
 
