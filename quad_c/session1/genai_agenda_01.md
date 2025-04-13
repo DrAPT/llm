@@ -8,20 +8,23 @@
 
 - All data is fictitious
 
+- Sessions are interactive. Jump in with questions.
+
 ---
 
 ### Content
 
-- Review Logistics, Course Outline:
-  1. Primer on LLMs
-  2. Generative AI Strengths, Risks, and Use Cases
-  3. Prompt Engineering 
-  4. Strategic Implementation of Generative AI at Quad-C
+1 - Review Course Outline:  
 
-- Brief Intro:
+  a. Primer on LLMs  
+  b. Generative AI Strengths, Risks, and Use Cases  
+  c. Prompt Engineering  
+  d. Strategic Implementation of Generative AI at Quad-C
+
+2 - Brief Intro:
   - How are you using GenAI today?
   - What are you looking to get out of this course?
   
-- Review and discuss deck: 01. llm_intro
-- Break (10 mins)
-- Hands-On Workshop 
+3 - Review and discuss deck: `01. llm_intro`  
+4 - Break (10 mins)  
+5 - Hands-On Workshop 
