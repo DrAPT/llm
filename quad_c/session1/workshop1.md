@@ -13,6 +13,8 @@ Last updated: April 13, 2025
 
 We will do the first exercise together
 
+We will discuss findings as a team
+
 ---
 
 1 | **Search**: In slides `01. llm_intro` there are easter eggs with question / answer in the slides. 
