@@ -16,7 +16,7 @@
   - How are you using GenAI today?
   - What are you looking to get out of this course?
 
-- Course Outline:
+- Review Course Outline:
   1. Primer on LLMs
   2. Generative AI Strengths, Risks, and Opportunities
   3. Prompt Engineering 
