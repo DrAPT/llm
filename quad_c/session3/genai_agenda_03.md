@@ -13,6 +13,6 @@
 
 ### Content
 
-- Review and discuss deck: 03. prompt_engineering
+- Review and discuss deck: 03. llm_strengths_weaknesses_use_cases
 - Break (10 mins)
 - Hands-On Workshop 
