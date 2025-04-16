@@ -88,4 +88,11 @@ Rerun the prompt below and note any difference.
 
 *How long are my interactions saved?*
 
+7 | **RAG**: Does ChatGPT use RAG when a file is uploaded for context?
+
+
+
+
+
+
 
