@@ -22,12 +22,12 @@
   d. Strategic Implementation of Generative AI at Quad-C
 
 
-**2 | Brief Intro:**
+**2 | Brief Intro:** (15 mins)
   - How are you using GenAI today?
   - What are you looking to get out of this course?
 
-**3 | Review and discuss deck: `01. llm_intro`**  
+**3 | Review and discuss deck: `01. llm_intro`** (50 mins)
 
-**4 | Break (10 mins)**  
+**4 | Break (5 mins)**  
 
-**5 | Hands-On Workshop**
+**5 | Hands-On Workshop** (20 mins)
