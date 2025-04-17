@@ -15,9 +15,9 @@ We will do the first exercise together
 
 ---
 
-1 | **Search**: In slides `01. llm_intro.ppt` there are easter eggs with question / answer in the slides. 
+1 | **Search**: In slides `01. llm_intro.pdf` there are easter eggs with question / answer in the slides. 
 
-Upload the file (`.ppt` format) to ChatGPT and prompt the model to find the easter eggs, returning them as a list.
+Upload the file (`.pdf` format) to ChatGPT and prompt the model to find the easter eggs, returning them as a list.
 
 ---
 
