@@ -2,7 +2,7 @@
 
 Topic: Primer on LLMs
 
-Last updated: April 13, 2025
+Last updated: April 17, 2025
 
 |  |  |
 | -------- | ------- |
@@ -23,7 +23,7 @@ Upload the file to ChatGPT and prompt the model to find the easter eggs, returni
 
 2 | **Adjust Temperature**: How do results change at different temperatures?
 
-Change the settings by clicking slider button at top right of page :  
+Change the settings by clicking slider button at top right of page:  
 ![image](https://github.com/DrAPT/llm/blob/main/quad_c/session1/chatgpt_settings.png)
 
 What is the current temperature?
