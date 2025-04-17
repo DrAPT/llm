@@ -6,7 +6,7 @@ Last updated: April 17, 2025
 
 |  |  |
 | -------- | ------- |
-| **LEARNING OUTCOMES** | Learn how to craft more effective prompts <br> Personalize the experience |
+| **LEARNING OUTCOMES** | - Craft more effective prompts <br> - Personalize the experience |
 | Model Type | We will use `Azure AI: gpt-4o` unless otherwise indicated |
 | Prompts | Appear *in italics*. You can copy/paste them into the LLM GUI |
 | Instructions | Run each prompt, save the response, and note the result. <br> We will discuss findings as a team |
