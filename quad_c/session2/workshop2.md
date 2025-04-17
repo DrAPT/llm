@@ -66,11 +66,11 @@ You might see a download button like the one circled here:
 
 6 | **Few-Shot Prompting**: Providing examples to get desired output.
 
-Craft an example using few-shot prompting to get a better answer.
+If we have specific requirements in mind, providing one or more examples can help get desired output.
 
-Here is one such example:
+Task: Craft an example using few-shot prompting to get a better answer.
 
-Without an example, we may not get what we want:
+Here is one such example, first using *Zero-Shot Prompting* and then *One-Shot Prompting*:
 
 *Write a memo header*
 
@@ -92,6 +92,7 @@ To | [Recipient Name]
 From | John, Financial Analyst
 Subject | [Insert Subject]
 ```
+---
 
 7 | **Memory**: What does the model remember from our session / between sessions?
 
