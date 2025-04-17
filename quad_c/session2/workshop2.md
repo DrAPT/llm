@@ -75,8 +75,15 @@ Here is one such example, first using *Zero-Shot Prompting* and then *One-Shot P
 *Write a memo header*
 
 ```
-Write a memo header from John based on this example:
+To: [Recipient Name]
+From: Steve, Financial Analyst
+Date: [Insert Date]
+Subject: [Insert Subject]
+```
 
+*Write a memo header from John based on this example:*
+
+```
 Memo header 1 example:
 Date | [Insert Date]
 To | [Recipient Name]
@@ -100,7 +107,7 @@ Run the prompt:
 
 *What was the first thing I asked?*
 
-Log out of the site and then log back in.
+Start a new chat by clicking `New Chat` at top left of screen.
 
 Rerun the prompt.
 
