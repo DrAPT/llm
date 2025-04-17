@@ -3,10 +3,10 @@
 
 ### Logistics
 
+- Course materials emailed to all attendees
+
 - Course materials can be found here:  
   [https://github.com/DrAPT/llm/tree/main/quad_c](https://github.com/DrAPT/llm/tree/main/quad_c)
-
-- Course materials also emailed to all attendees
 
 - All data is fictitious
 
