@@ -1,4 +1,4 @@
-### Workshop 2: Your new role, the Prompt Engineer
+### Workshop 2: Your new role - the Prompt Engineer
 
 Topic: Prompt Engineering
 
@@ -6,7 +6,7 @@ Last updated: April 17, 2025
 
 |  |  |
 | -------- | ------- |
-| **LEARNING OUTCOMES** | Learn how to craft more effective prompts |
+| **LEARNING OUTCOMES** | Learn how to craft more effective prompts <br> Personalize the experience |
 | Model Type | We will use `Azure AI: gpt-4o` unless otherwise indicated |
 | Prompts | Appear *in italics*. You can copy/paste them into the LLM GUI |
 | Instructions | Run each prompt, save the response, and note the result. <br> We will discuss findings as a team |
@@ -15,30 +15,36 @@ We will do the first exercise together
 
 ---
 
-1 | **Memory** In the Personalization feature, add memory that you think will be useful. This will persist across sessions.
+1 | **Memory**: Storing information that will persist across sessions.
+
+In the Personalization feature, add memory that you think will be useful. 
 
 Run a prompt to test that it works properly.
 
 ---
 
-2 | **System Prompt** Click the slider at top right and include a system prompt. This will persist only for the current session.
+2 | **System Prompt**: Storing information to set the framework. Persists for the current session.
 
-Change the settings by clicking slider button at top right of page :  
+Click the slider at top right and include a system prompt. 
+
+Change the settings by clicking slider button at top right of page:  
 ![image](https://github.com/DrAPT/llm/blob/main/quad_c/session1/chatgpt_settings.png)
 
 Run a prompt to test that it works properly.
 
 ---
 
-3 | **RAG**: Ask the model to determine the best company in the spreadsheet `fictitious_company_financials.csv` by equal weighting the financial metrics. 
+3 | **RAG**: Grounding the response in context.
+
+Ask the model to determine the best company in the spreadsheet `fictitious_company_financials.csv` by equal weighting the financial metrics. 
 
 See if you can get the correct answer (**Company 36**) by experimenting with different prompts (e.g., asking it to write and run the code).
 
 ---
 
-4 | **Finding a Comfortable Temperature**:
+4 | **Finding a Comfortable Temperature**: Exploring different temperatures for a use case requiring precision.
 
-Write a short memo making an investment case for company 36 from the uploaded file.
+Write a short memo making an investment case for Company 36 from the uploaded file.
 
 Experiment with different temperatures to find one that you like. 
 
@@ -53,14 +59,14 @@ When you are finished, reset temperature to the default (0.8).
 Given your favorite memo, you will ask the model to extract the company metrics and store them in a CSV file.
 This will make it easy for you or others to process the data in the future.
 
-You might see a download button like this:
+You might see a download button like the one circled here:
 ![image](https://github.com/DrAPT/llm/blob/main/quad_c/session2/download_file.png)
 
 ---
 
-6 | **Few-Shot Prompting**: We provide examples to get better output.
+6 | **Few-Shot Prompting**: Providing examples to get desired output.
 
-Craft an example of using few-shot prompting to get a better answer.
+Craft an example using few-shot prompting to get a better answer.
 
 Here is one such example:
 
