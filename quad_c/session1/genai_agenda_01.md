@@ -28,6 +28,6 @@
 
 **3 | Review and discuss deck: `01. llm_intro`** (50 mins)
 
-**4 | Break (5 mins)**  
+**4 | Break** (5 mins)  
 
 **5 | Hands-On Workshop** (20 mins)

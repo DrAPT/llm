@@ -1,12 +1,12 @@
-### Workshop 1: Easter Egg Hunt
+### Workshop 2: Your new role, the Prompt Engineer
 
-Topic: Primer on LLMs
+Topic: Prompt Engineering
 
-Last updated: April 13, 2025
+Last updated: April 17, 2025
 
 |  |  |
 | -------- | ------- |
-| **LEARNING OUTCOMES** | Discover GenAI principles, techniques, Quad-C fun facts |
+| **LEARNING OUTCOMES** | Learn how to craft more effective prompts |
 | Model Type | We will use `Azure AI: gpt-4o` unless otherwise indicated |
 | Prompts | Appear *in italics*. You can copy/paste them into the LLM GUI |
 | Instructions | Run each prompt, save the response, and note the result. <br> We will discuss findings as a team |
@@ -15,84 +15,95 @@ We will do the first exercise together
 
 ---
 
-1 | **Search**: In slides `01. llm_intro` there are easter eggs with question / answer in the slides. 
+1 | **Memory** In the Personalization feature, add memory that you think will be useful. This will persist across sessions.
 
-Upload the file to ChatGPT and prompt the model to find the easter eggs, returning them as a list.
+Run a prompt to test that it works properly.
 
 ---
 
-2 | **Adjust Temperature**: How do results change at different temperatures?
+2 | **System Prompt** Click the slider at top right and include a system prompt. This will persist only for the current session.
 
 Change the settings by clicking slider button at top right of page :  
 ![image](https://github.com/DrAPT/llm/blob/main/quad_c/session1/chatgpt_settings.png)
 
-What is the current temperature?
-
-You will run each of these prompts at a lower temperature of 0.2 and a higher temperature of 2.0.  
-Save each response and note how it changed with temperature.
-
-Prompt 1:  
-*What was the first private equity firm in the United States? Answer in 50 words or less.*
-
-Prompt 2:  
-  *Who started the personal computer revolution? Answer in 50 words or less.*
-
-Finally, set the temperature to the default (0.8).
+Run a prompt to test that it works properly.
 
 ---
 
-3 | **Prompt Sensitivity Experiments**: How much does the output change if we change our prompts?  
+3 | **RAG**: Ask the model to determine the best company in the spreadsheet `fictitious_company_financials.csv` by equal weighting the financial metrics. 
 
-[EXPERIMENT 1]: Change punctuation  
-*What was the first private equity firm in the United States. Answer in 50 words or less.*
-
-**NOTE**: LLMs are designed to use randomness, so it's not uncommon for results to differ even with the same prompt.
-
-Here, we are checking for drastic differences. Early LLMs would produce drastic differences.
-
-[EXPERIMENT 2]: Drop the length requirement  
-*What was the first private equity firm in the United States? Make the response as long as necessary.*
+See if you can get the correct answer (**Company 36**) by experimenting with different prompts (e.g., asking it to write and run the code).
 
 ---
 
-4 | **Memory**: What does the model remember from our session / between sessions?
+4 | **Finding a Comfortable Temperature**:
+
+Write a short memo making an investment case for company 36 from the uploaded file.
+
+Experiment with different temperatures to find one that you like. 
+
+Note: From the documentation, lower values (0 to 0.3) result in more predictable and consistent output. Higher values (0.7 to 1) can be diverse and creative, but potentially less coherent. 
+
+When you are finished, reset temperature to the default (0.8).
+
+---
+
+5 | **Extracting and Saving Results**: Extract metrics and store in machine-readable format.   
+
+Given your favorite memo, you will ask the model to extract the company metrics and store them in a CSV file.
+This will make it easy for you or others to process the data in the future.
+
+You might see a download button like this:
+![image](https://github.com/DrAPT/llm/blob/main/quad_c/session2/download_file.png)
+
+---
+
+6 | **Few-Shot Prompting**: We provide examples to get better output.
+
+Craft an example of using few-shot prompting to get a better answer.
+
+Here is one such example:
+
+Without an example, we may not get what we want:
+
+*Write a memo header*
+
+```
+Write a memo header from John based on this example:
+
+Memo header 1 example:
+Date | [Insert Date]
+To | [Recipient Name]
+From | Steve, Financial Analyst
+Subject | [Insert Subject]
+```
+
+Output:
+
+```
+Date | [Insert Date]
+To | [Recipient Name]
+From | John, Financial Analyst
+Subject | [Insert Subject]
+```
+
+7 | **Memory**: What does the model remember from our session / between sessions?
+
+Run the prompt:
 
 *What was the first thing I asked?*
 
 Log out of the site and then log back in.
 
-Rerun the prompt and save the response.
+Rerun the prompt.
+
+Check the memory under Personalization. Are your saved memories still there?
+
+Is your system prompt still there?
 
 What are your conclusions?
 
 ---
-
-5 | **Training Data**: We query the model to understand its training data.  
-
-*What is the timeframe of your training data?*
- 
-*What is today’s date? How do you know this?*
-
-Change to a different model by clicking this dropdown at the top of the page:  
-![image](https://github.com/DrAPT/llm/blob/main/quad_c/session1/chatgpt_model_dropdown.png)
-
-Rerun the prompt below and note any difference.  
-*What is today’s date? How do you know this?*
-
-
----
-
-6 | **Privacy and Security**: How private are the sessions? Does OpenAI use them to train their models?
-
-*Will this session be used to train models?*  
-
-*How long are my interactions saved?*
-
-7 | **RAG**: Does ChatGPT use RAG when a file is uploaded for context?
-
-
-
-
 
 
 
