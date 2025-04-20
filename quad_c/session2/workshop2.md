@@ -123,7 +123,7 @@ What are your conclusions?
 
 For this exercise, you will upload and work with this file: *Project Eagle CIM - Quad-C Management.pdf* 
 
-Run this prompt:
+8a | You will run the prompt below to extract several pieces of information at once:
 
 ```
 Extract each of these items based on the file. Cite the page of the source information.
@@ -133,7 +133,9 @@ Extract each of these items based on the file. Cite the page of the source infor
 - EBITDA margin in 2015
 ```
 
-Feel free to verify results and experiment with other prompts.
+8b | Modify the prompt to extract Brands, EBITDA and EBITDA margin from 2010 through 2015, inclusive.
+
+8c | Feel free to verify results and experiment with other prompts.
 
 ---
 
