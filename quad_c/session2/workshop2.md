@@ -2,7 +2,7 @@
 
 Topic: Prompt Engineering
 
-Last updated: April 17, 2025
+Last updated: April 20, 2025
 
 |  |  |
 | -------- | ------- |
@@ -116,6 +116,24 @@ Check the memory under Personalization. Are your saved memories still there?
 Is your system prompt still there?
 
 What are your conclusions?
+
+---
+
+8 | **RAG**: Extracting information from a CIM.
+
+For this exercise, you will upload and work with this file: *Project Eagle CIM - Quad-C Management.pdf* 
+
+Run this prompt:
+
+```
+Extract each of these items based on the file. Cite the page of the source information.
+
+- Brands
+- EBITDA in 2015
+- EBITDA margin in 2015
+```
+
+Feel free to verify results and experiment with other prompts.
 
 ---
 
