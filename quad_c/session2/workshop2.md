@@ -2,7 +2,7 @@
 
 Topic: Prompt Engineering
 
-Last updated: April 20, 2025
+Last updated: April 21, 2025
 
 |  |  |
 | -------- | ------- |
@@ -133,7 +133,8 @@ Extract each of these items based on the file. Cite the page of the source infor
 - EBITDA margin in 2015
 ```
 
-8b | Modify the prompt to extract Brands, EBITDA and EBITDA margin from 2010 through 2015, inclusive.
+8b | Modify the prompt to extract Brands, EBITDA and EBITDA margin from 2010 through 2015, inclusive.  
+&nbsp;  &nbsp;  &nbsp; &nbsp; Additionally, request a brief memo based on the extracted data.
 
 8c | Feel free to verify results and experiment with other prompts.
 
