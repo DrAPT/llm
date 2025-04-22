@@ -44,7 +44,7 @@ See if you can get the correct answer (**Company 36**) by experimenting with dif
 
 4 | **Finding a Comfortable Temperature**: Exploring different temperatures for a use case requiring precision.
 
-The the model to write a short memo making an investment case for Company 36 from the uploaded file.
+Ask the model to write a short memo making an investment case for Company 36 from the uploaded file.
 
 Experiment with different temperatures to find one that you like. 
 
