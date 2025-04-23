@@ -15,6 +15,6 @@
 
 ### Content
 
-- Review and discuss deck: `02. prompt_engineering` (~30-40 mins)
-- Break (5 - 10 mins)
-- Hands-On Workshop (~30-40 mins)
+- Review and discuss deck: `02. prompt_engineering` (~40-50 mins)
+- Break (5 mins)
+- Hands-On Workshop (~30 mins)
