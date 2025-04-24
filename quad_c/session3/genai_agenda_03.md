@@ -15,6 +15,6 @@
 
 ### Content
 
-- Review and discuss deck: 03. llm_strengths_weaknesses_use_cases
+- Review and discuss deck: 03. llm_strengths_risks_use_cases
 - Break (5 mins)
 - Hands-On Workshop 
