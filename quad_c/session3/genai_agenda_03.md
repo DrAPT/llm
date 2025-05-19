@@ -17,4 +17,4 @@
 
 - Review and discuss deck: 03. llm_strengths_risks_use_cases
 - Break (5 mins)
-- Hands-On Workshop 
+- Hands-On Workshop on Zoom
