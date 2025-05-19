@@ -42,6 +42,7 @@ Return a value in the range -1 (negative) to 1 (positive)
 Provide brief justification
 ```
 
+---
   
 - Review and discuss Bain [report](https://www.bain.com/insights/harnessing-generative-ai-global-private-equity-report-2024/): Harnessing Generative AI in Private Equity  
   
